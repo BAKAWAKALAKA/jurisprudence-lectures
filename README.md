@@ -1,3 +1,7 @@
-# My Awesome Book
+# Лекции по Правоведению. 3 семестр 2016 года.
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+**Преподаватели:**
+
+1. Аскаров Зохид Садикович
+2. Зябкина Татьяна Федеровна
+
